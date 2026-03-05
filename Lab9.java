@@ -1,9 +1,9 @@
 // Import Scanner class to read user input from the console
 import java.util.Scanner;
 
-// Main class - must match the filename Lab08.java
+// Main class - must match the filename Lab9.java
 // This is the only public class in the file
-public class Lab08 {
+public class Lab9 {
     
     // Main method - entry point of the program
     public static void main(String[] args) {
